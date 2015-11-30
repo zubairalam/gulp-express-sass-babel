@@ -1,0 +1,22 @@
+{
+  "name": "gulp-express-sass-livereload",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "zubair alam <zubair.alam.jmi@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6",
+    "font-awesome": "fontawesome#~4.5.0"
+  }
+}
